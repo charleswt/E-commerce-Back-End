@@ -53,7 +53,7 @@ router.put('/:id', async(req, res) => {
       },
     });
 
-    if (updatedTagData[0] === 0) {
+    if (!updatedTagData) {
       res.status(404).json({ message: 'Location not found' });
       return;
     }
