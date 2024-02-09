@@ -15,11 +15,11 @@ This is an example of what the back end of an e-commerce website would look like
 
 ## Installation
 
-- A after gitcloning this repository ```npm i``` in integrated terminal.
+After gitcloning this repository ```npm i``` in integrated terminal.
 
 ## Usage
 
-Open your API testing platform of choice and use get, post, put and delete to recieve update create and delete data.
+Open your API testing platform of choice and use get, post, put and delete to manipulate data.
 
 ## License
 
