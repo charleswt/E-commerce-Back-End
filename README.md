@@ -39,7 +39,7 @@ Before running this application, please follow these steps:
 2. **Environment Variables (.env) File:**
    Create a `.env` file at the root of your project with the necessary configuration information. This file may include items like database connection details, API keys, or any other sensitive information.
 
-   Example .env file:
+   Example .env file:</br>
    DB_USER=username</br>
    DB_PASSWORD=password</br>
    DB_HOST=localhost</br>
